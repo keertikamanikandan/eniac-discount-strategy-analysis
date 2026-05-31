@@ -227,7 +227,7 @@ The dataset consists of transactional e-commerce sales data stored in Excel form
 
 📓 Open the Jupyter Notebook file to explore the analysis.
 
-👉 [View Notebook](https://github.com/keertikamanikandan-lab/eniac-discount-strategy-analysis/blob/main/jupyter%20noebook/Eniac_Discount_Analysis.ipynb)
+👉 [View Notebook](https://github.com/keertikamanikandan-lab/eniac-discount-strategy-analysis/blob/main/jupyter%20notebook/Eniac_Discount_Analysis.ipynb)
 
 ### 📊 Presentation  
 
