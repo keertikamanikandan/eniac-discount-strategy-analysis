@@ -1,4 +1,4 @@
-# 🚀 Eniac Discount Strategy Analysis  
+# 🚀Retail Discount Strategy Analysis
 ### 📊 Data-Driven Pricing & Revenue Optimisation for E-commerce
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
@@ -121,7 +121,7 @@ The dataset consists of transactional e-commerce sales data stored in Excel form
 ## 📁 Project Structure
 
 ```bash
-📦 eniac-discount-strategy-analysis/
+📦 Retail-Discount-Strategy-Analysis/
 │
 ├── 📂 Raw data/
 │   ├── 📄 brands.xls
@@ -221,19 +221,19 @@ The dataset consists of transactional e-commerce sales data stored in Excel form
 
 📥 Download the project from GitHub to your local system.
 
-👉 [GitHub Repository](https://github.com/keertikamanikandan-lab/eniac-discount-strategy-analysis)
+👉 [GitHub Repository](https://github.com/keertikamanikandan-lab/Retail-Discount-Strategy-Analysis)
 
 ### 📘 Jupyter Notebook 
 
 📓 Open the Jupyter Notebook file to explore the analysis.
 
-👉 [View Notebook](https://github.com/keertikamanikandan-lab/eniac-discount-strategy-analysis/blob/main/jupyter%20notebook/Eniac_Discount_Analysis.ipynb)
+👉 [View Notebook](https://github.com/keertikamanikandan-lab/Retail-Discount-Strategy-Analysis/blob/main/jupyter%20notebook/Eniac_Discount_Analysis.ipynb)
 
 ### 📊 Presentation  
 
 📊 Explore the final business presentation for insights and results.
 
-👉 [View Presentation](https://github.com/keertikamanikandan-lab/eniac-discount-strategy-analysis/blob/main/presentation/The_Discount_Strategy_Analysis.pptx)
+👉 [View Presentation](https://github.com/keertikamanikandan-lab/Retail-Discount-Strategy-Analysis/blob/main/presentation/The_Discount_Strategy_Analysis.pptx)
 
 ---
 
@@ -242,7 +242,7 @@ The dataset consists of transactional e-commerce sales data stored in Excel form
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/keertikamanikandan-lab/eniac-discount-strategy-analysis.git
+git clone https://github.com/keertikamanikandan-lab/Retail-Discount-Strategy-Analysis.git
 ```
 
 ### 2️⃣ Open Notebook
